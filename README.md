@@ -71,6 +71,10 @@ cd client
 npm run dev
 ```
 
+## Deploy the frontend to Vercel
+
+Set the Vercel project root directory to `client`, use `npm run build` as the build command, and `dist` as the output directory. Add `VITE_API_URL` in the Vercel project environment settings and point it to the deployed API URL ending in `/api`; do not use `localhost` for a deployed site. Configure the API server's `CLIENT_URL` to the deployed frontend origin.
+
 ## Demo accounts
 
 There are no built-in demo accounts. Create the administrator credentials privately in `server/.env`, run the seed command, and register student accounts from the signup page.
