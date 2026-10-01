@@ -1,0 +1,722 @@
+[
+  {
+    "question": "Which tag is used to define the base URL for all relative URLs in a document?",
+    "options": [
+      { "text": "<base>", "isCorrect": true },
+      { "text": "<link>", "isCorrect": false },
+      { "text": "<meta>", "isCorrect": false },
+      { "text": "<head>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the purpose of the <noscript> tag in HTML?",
+    "options": [
+      { "text": "Provides alternative content for users who have disabled scripts", "isCorrect": true },
+      { "text": "Disables scripts on the page", "isCorrect": false },
+      { "text": "Comments out scripts", "isCorrect": false },
+      { "text": "None of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does the <link> tag do in HTML?",
+    "options": [
+      { "text": "Links to external resources like CSS files", "isCorrect": true },
+      { "text": "Creates a hyperlink", "isCorrect": false },
+      { "text": "Embeds an image", "isCorrect": false },
+      { "text": "Defines a list", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to define a script in HTML?",
+    "options": [
+      { "text": "<script>", "isCorrect": true },
+      { "text": "<style>", "isCorrect": false },
+      { "text": "<code>", "isCorrect": false },
+      { "text": "<js>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which attribute is used to group elements in HTML?",
+    "options": [
+      { "text": "class", "isCorrect": true },
+      { "text": "id", "isCorrect": false },
+      { "text": "group", "isCorrect": false },
+      { "text": "style", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to define the title of an HTML document?",
+    "options": [
+      { "text": "<title>", "isCorrect": true },
+      { "text": "<head>", "isCorrect": false },
+      { "text": "<meta>", "isCorrect": false },
+      { "text": "<h1>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to embed another HTML page within the current page?",
+    "options": [
+      { "text": "<embed>", "isCorrect": false },
+      { "text": "<iframe>", "isCorrect": true },
+      { "text": "<frame>", "isCorrect": false },
+      { "text": "<object>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the purpose of the <meta> tag in HTML?",
+    "options": [
+      { "text": "To define metadata about an HTML document", "isCorrect": true },
+      { "text": "To create a link", "isCorrect": false },
+      { "text": "To insert an image", "isCorrect": false },
+      { "text": "To define a paragraph", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to define a comment in HTML?",
+    "options": [
+      { "text": "<!-- comment -->", "isCorrect": true },
+      { "text": "<comment>", "isCorrect": false },
+      { "text": "// comment", "isCorrect": false },
+      { "text": "/* comment */", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which attribute on a label associates it with a form control?",
+    "options": [
+      { "text": "for", "isCorrect": true },
+      { "text": "name", "isCorrect": false },
+      { "text": "action", "isCorrect": false },
+      { "text": "value", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to create a drop-down list?",
+    "options": [
+      { "text": "<input>", "isCorrect": false },
+      { "text": "<select>", "isCorrect": true },
+      { "text": "<option>", "isCorrect": false },
+      { "text": "<list>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which element creates a disclosure widget that can show or hide content?",
+    "options": [
+      { "text": "<dialog>", "isCorrect": false },
+      { "text": "<details>", "isCorrect": true },
+      { "text": "<summary>", "isCorrect": false },
+      { "text": "<fieldset>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which input type creates a checkbox?",
+    "options": [
+      { "text": "radio", "isCorrect": false },
+      { "text": "checkbox", "isCorrect": true },
+      { "text": "option", "isCorrect": false },
+      { "text": "select", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which input type creates a radio button?",
+    "options": [
+      { "text": "radio", "isCorrect": true },
+      { "text": "checkbox", "isCorrect": false },
+      { "text": "option", "isCorrect": false },
+      { "text": "select", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which attribute specifies the HTTP method to use when sending form data?",
+    "options": [
+      { "text": "action", "isCorrect": false },
+      { "text": "method", "isCorrect": true },
+      { "text": "type", "isCorrect": false },
+      { "text": "submit", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which input type creates a password field?",
+    "options": [
+      { "text": "text", "isCorrect": false },
+      { "text": "textarea", "isCorrect": false },
+      { "text": "password", "isCorrect": true },
+      { "text": "email", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which input type creates a single-line text input field?",
+    "options": [
+      { "text": "text", "isCorrect": true },
+      { "text": "textarea", "isCorrect": false },
+      { "text": "password", "isCorrect": false },
+      { "text": "email", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to create a multi-line text input field?",
+    "options": [
+      { "text": "<input>", "isCorrect": false },
+      { "text": "<textarea>", "isCorrect": true },
+      { "text": "<text>", "isCorrect": false },
+      { "text": "<multiline>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which attribute specifies where to send the form data?",
+    "options": [
+      { "text": "action", "isCorrect": true },
+      { "text": "method", "isCorrect": false },
+      { "text": "target", "isCorrect": false },
+      { "text": "href", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which HTML tag is used to create a form?",
+    "options": [
+      { "text": "<form>", "isCorrect": true },
+      { "text": "<input>", "isCorrect": false },
+      { "text": "<textarea>", "isCorrect": false },
+      { "text": "<fieldset>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What attribute is used to specify the number of columns a cell should span?",
+    "options": [
+      { "text": "colspan", "isCorrect": true },
+      { "text": "rowspan", "isCorrect": false },
+      { "text": "span", "isCorrect": false },
+      { "text": "merge", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does the colspan attribute do?",
+    "options": [
+      { "text": "Merges cells horizontally", "isCorrect": true },
+      { "text": "Merges cells vertically", "isCorrect": false },
+      { "text": "Adds a column", "isCorrect": false },
+      { "text": "None of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag groups the header content in a table?",
+    "options": [
+      { "text": "<thead>", "isCorrect": true },
+      { "text": "<tbody>", "isCorrect": false },
+      { "text": "<tfoot>", "isCorrect": false },
+      { "text": "<header>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag groups the footer content in a table?",
+    "options": [
+      { "text": "<thead>", "isCorrect": false },
+      { "text": "<tbody>", "isCorrect": false },
+      { "text": "<tfoot>", "isCorrect": true },
+      { "text": "<footer>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to define a table header cell?",
+    "options": [
+      { "text": "<td>", "isCorrect": false },
+      { "text": "<tr>", "isCorrect": false },
+      { "text": "<th>", "isCorrect": true },
+      { "text": "<header>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag groups the body content in a table?",
+    "options": [
+      { "text": "<thead>", "isCorrect": false },
+      { "text": "<tbody>", "isCorrect": true },
+      { "text": "<tfoot>", "isCorrect": false },
+      { "text": "<body>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does the rowspan attribute do?",
+    "options": [
+      { "text": "Merges cells horizontally", "isCorrect": false },
+      { "text": "Merges cells vertically", "isCorrect": true },
+      { "text": "Adds a row", "isCorrect": false },
+      { "text": "None of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to group multiple images for responsive design?",
+    "options": [
+      { "text": "<group>", "isCorrect": false },
+      { "text": "<picture>", "isCorrect": true },
+      { "text": "<figure>", "isCorrect": false },
+      { "text": "<div>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does the <figure> tag represent?",
+    "options": [
+      { "text": "A mathematical figure", "isCorrect": false },
+      { "text": "A container for images with captions", "isCorrect": true },
+      { "text": "A chart", "isCorrect": false },
+      { "text": "None of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which attribute requires a form field to be completed before submission?",
+    "options": [
+      { "text": "placeholder", "isCorrect": false },
+      { "text": "readonly", "isCorrect": false },
+      { "text": "required", "isCorrect": true },
+      { "text": "disabled", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to provide a caption for an image?",
+    "options": [
+      { "text": "<caption>", "isCorrect": false },
+      { "text": "<figcaption>", "isCorrect": true },
+      { "text": "<title>", "isCorrect": false },
+      { "text": "<desc>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which HTML tag is used to define a table?",
+    "options": [
+      { "text": "<table>", "isCorrect": true },
+      { "text": "<tab>", "isCorrect": false },
+      { "text": "<tbl>", "isCorrect": false },
+      { "text": "<t>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to define a table cell?",
+    "options": [
+      { "text": "<td>", "isCorrect": true },
+      { "text": "<tr>", "isCorrect": false },
+      { "text": "<th>", "isCorrect": false },
+      { "text": "<cell>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which semantic element commonly contains introductory content for a page or section?",
+    "options": [
+      { "text": "<header>", "isCorrect": true },
+      { "text": "<main>", "isCorrect": false },
+      { "text": "<nav>", "isCorrect": false },
+      { "text": "<aside>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does the mailto: protocol in the href attribute do?",
+    "options": [
+      { "text": "Links to a mail server", "isCorrect": false },
+      { "text": "Opens the user's email client to send an email", "isCorrect": true },
+      { "text": "Sends an email automatically", "isCorrect": false },
+      { "text": "None of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which attribute specifies the width of an image?",
+    "options": [
+      { "text": "length", "isCorrect": false },
+      { "text": "size", "isCorrect": false },
+      { "text": "width", "isCorrect": true },
+      { "text": "w", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which attribute provides alternative text for an image?",
+    "options": [
+      { "text": "alt", "isCorrect": true },
+      { "text": "title", "isCorrect": false },
+      { "text": "description", "isCorrect": false },
+      { "text": "text", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which attribute is used to specify the language of the linked document?",
+    "options": [
+      { "text": "lang", "isCorrect": false },
+      { "text": "hreflang", "isCorrect": true },
+      { "text": "language", "isCorrect": false },
+      { "text": "xml:lang", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What attribute specifies the path to the image?",
+    "options": [
+      { "text": "href", "isCorrect": false },
+      { "text": "link", "isCorrect": false },
+      { "text": "src", "isCorrect": true },
+      { "text": "path", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which attribute specifies the height of an image?",
+    "options": [
+      { "text": "length", "isCorrect": false },
+      { "text": "size", "isCorrect": false },
+      { "text": "height", "isCorrect": true },
+      { "text": "h", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which HTML tag is used to display an image?",
+    "options": [
+      { "text": "<image>", "isCorrect": false },
+      { "text": "<img>", "isCorrect": true },
+      { "text": "<src>", "isCorrect": false },
+      { "text": "<picture>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does the alt attribute do?",
+    "options": [
+      { "text": "Adds a tooltip to the image", "isCorrect": false },
+      { "text": "Provides alternative text if the image cannot be displayed", "isCorrect": true },
+      { "text": "Links the image to another page", "isCorrect": false },
+      { "text": "None of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which attribute opens the linked document in a new window or tab?",
+    "options": [
+      { "text": "target=\"_blank\"", "isCorrect": true },
+      { "text": "new=\"true\"", "isCorrect": false },
+      { "text": "window=\"new\"", "isCorrect": false },
+      { "text": "open=\"new\"", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is a relative URL?",
+    "options": [
+      { "text": "A full web address", "isCorrect": false },
+      { "text": "A link to another website", "isCorrect": false },
+      { "text": "A URL relative to the current page", "isCorrect": true },
+      { "text": "An absolute path", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What attribute is used to specify the relationship between the current document and the linked resource?",
+    "options": [
+      { "text": "rel", "isCorrect": true },
+      { "text": "href", "isCorrect": false },
+      { "text": "type", "isCorrect": false },
+      { "text": "link", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to link external CSS files?",
+    "options": [
+      { "text": "<style>", "isCorrect": false },
+      { "text": "<css>", "isCorrect": false },
+      { "text": "<link>", "isCorrect": true },
+      { "text": "<script>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is an absolute URL?",
+    "options": [
+      { "text": "A link within the same page", "isCorrect": false },
+      { "text": "A full web address including protocol", "isCorrect": true },
+      { "text": "A relative path", "isCorrect": false },
+      { "text": "A broken link", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What attribute specifies the URL of the page the link goes to?",
+    "options": [
+      { "text": "src", "isCorrect": false },
+      { "text": "link", "isCorrect": false },
+      { "text": "href", "isCorrect": true },
+      { "text": "url", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which attribute specifies the MIME type of the linked resource?",
+    "options": [
+      { "text": "rel", "isCorrect": false },
+      { "text": "type", "isCorrect": true },
+      { "text": "href", "isCorrect": false },
+      { "text": "media", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "options": [
+      { "text": "<link>", "isCorrect": false },
+      { "text": "<a>", "isCorrect": true },
+      { "text": "<href>", "isCorrect": false },
+      { "text": "<hyperlink>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag combination is correct for a definition list?",
+    "options": [
+      { "text": "<dl><li></li></dl>", "isCorrect": false },
+      { "text": "<dl><dt></dt><dd></dd></dl>", "isCorrect": true },
+      { "text": "<ol><dt></dt><dd></dd></ol>", "isCorrect": false },
+      { "text": "<ul><dt></dt><dd></dd></ul>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which list type is best for a sequence of steps?",
+    "options": [
+      { "text": "Unordered list", "isCorrect": false },
+      { "text": "Ordered list", "isCorrect": true },
+      { "text": "Definition list", "isCorrect": false },
+      { "text": "Bullet list", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What type of list uses numbers for its items?",
+    "options": [
+      { "text": "Unordered list", "isCorrect": false },
+      { "text": "Ordered list", "isCorrect": true },
+      { "text": "Definition list", "isCorrect": false },
+      { "text": "Bullet list", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Can lists be nested within other lists in HTML?",
+    "options": [
+      { "text": "Yes", "isCorrect": true },
+      { "text": "No", "isCorrect": false },
+      { "text": "Only ordered lists", "isCorrect": false },
+      { "text": "Only unordered lists", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What type of list uses bullets for its items?",
+    "options": [
+      { "text": "Ordered list", "isCorrect": false },
+      { "text": "Unordered list", "isCorrect": true },
+      { "text": "Definition list", "isCorrect": false },
+      { "text": "Numbered list", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to define a description in a definition list?",
+    "options": [
+      { "text": "<dd>", "isCorrect": true },
+      { "text": "<dt>", "isCorrect": false },
+      { "text": "<li>", "isCorrect": false },
+      { "text": "<desc>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to define a term in a definition list?",
+    "options": [
+      { "text": "<dt>", "isCorrect": true },
+      { "text": "<dd>", "isCorrect": false },
+      { "text": "<li>", "isCorrect": false },
+      { "text": "<term>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to create an unordered list?",
+    "options": [
+      { "text": "<ul>", "isCorrect": true },
+      { "text": "<ol>", "isCorrect": false },
+      { "text": "<li>", "isCorrect": false },
+      { "text": "<list>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to create a definition list?",
+    "options": [
+      { "text": "<dl>", "isCorrect": true },
+      { "text": "<ol>", "isCorrect": false },
+      { "text": "<ul>", "isCorrect": false },
+      { "text": "<list>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to create a list item?",
+    "options": [
+      { "text": "<li>", "isCorrect": true },
+      { "text": "<item>", "isCorrect": false },
+      { "text": "<listitem>", "isCorrect": false },
+      { "text": "<entry>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to define a citation or reference?",
+    "options": [
+      { "text": "<cite>", "isCorrect": true },
+      { "text": "<ref>", "isCorrect": false },
+      { "text": "<reference>", "isCorrect": false },
+      { "text": "<source>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to define a short quotation?",
+    "options": [
+      { "text": "<quote>", "isCorrect": false },
+      { "text": "<q>", "isCorrect": true },
+      { "text": "<blockquote>", "isCorrect": false },
+      { "text": "<cite>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to define inline code snippets?",
+    "options": [
+      { "text": "<pre>", "isCorrect": false },
+      { "text": "<code>", "isCorrect": true },
+      { "text": "<snippet>", "isCorrect": false },
+      { "text": "<inline>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to define a block of preformatted text?",
+    "options": [
+      { "text": "<pre>", "isCorrect": true },
+      { "text": "<code>", "isCorrect": false },
+      { "text": "<text>", "isCorrect": false },
+      { "text": "<format>", "isCorrect": false }
+    ]
+  },
+ {
+    "question": "Which tag is used to create a horizontal rule?",
+    "options": [
+      { "text": "<hr>", "isCorrect": true },
+      { "text": "<line>", "isCorrect": false },
+      { "text": "<horizontal>", "isCorrect": false },
+      { "text": "<rule>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to create a line break in HTML?",
+    "options": [
+      { "text": "<lb>", "isCorrect": false },
+      { "text": "<br>", "isCorrect": true },
+      { "text": "<break>", "isCorrect": false },
+      { "text": "<newline>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does the <strong> tag represent?",
+    "options": [
+      { "text": "Italic text", "isCorrect": false },
+      { "text": "Bold text with strong importance", "isCorrect": true },
+      { "text": "Underlined text", "isCorrect": false },
+      { "text": "Highlighted text", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to create a paragraph in HTML?",
+    "options": [
+      { "text": "<p>", "isCorrect": true },
+      { "text": "<para>", "isCorrect": false },
+      { "text": "<text>", "isCorrect": false },
+      { "text": "<paragraph>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to emphasize text in HTML?",
+    "options": [
+      { "text": "<strong>", "isCorrect": false },
+      { "text": "<em>", "isCorrect": true },
+      { "text": "<i>", "isCorrect": false },
+      { "text": "<b>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to create the largest heading?",
+    "options": [
+      { "text": "<h1>", "isCorrect": true },
+      { "text": "<h6>", "isCorrect": false },
+      { "text": "<head>", "isCorrect": false },
+      { "text": "<title>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What tag is used to define a cell in a table?",
+    "options": [
+      { "text": "<td>", "isCorrect": true },
+      { "text": "<tr>", "isCorrect": false },
+      { "text": "<th>", "isCorrect": false },
+      { "text": "<cell>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to create an ordered list?",
+    "options": [
+      { "text": "<ul>", "isCorrect": false },
+      { "text": "<ol>", "isCorrect": true },
+      { "text": "<li>", "isCorrect": false },
+      { "text": "<list>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to create a table row?",
+    "options": [
+      { "text": "<td>", "isCorrect": false },
+      { "text": "<tr>", "isCorrect": true },
+      { "text": "<th>", "isCorrect": false },
+      { "text": "<table>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What attribute is used to specify the path to an image in the <img> tag?",
+    "options": [
+      { "text": "href", "isCorrect": false },
+      { "text": "link", "isCorrect": false },
+      { "text": "src", "isCorrect": true },
+      { "text": "path", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What attribute is used to specify the URL in a hyperlink?",
+    "options": [
+      { "text": "src", "isCorrect": false },
+      { "text": "link", "isCorrect": false },
+      { "text": "href", "isCorrect": true },
+      { "text": "url", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to insert an image in HTML?",
+    "options": [
+      { "text": "<img>", "isCorrect": true },
+      { "text": "<image>", "isCorrect": false },
+      { "text": "<src>", "isCorrect": false },
+      { "text": "<picture>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      { "text": "<link>", "isCorrect": false },
+      { "text": "<a>", "isCorrect": true },
+      { "text": "<href>", "isCorrect": false },
+      { "text": "<hyperlink>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to define the main content of an HTML document?",
+    "options": [
+      { "text": "<head>", "isCorrect": false },
+      { "text": "<body>", "isCorrect": false },
+      { "text": "<main>", "isCorrect": true },
+      { "text": "<content>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the purpose of the <head> section in an HTML document?",
+    "options": [
+      { "text": "To display content on the webpage", "isCorrect": false },
+      { "text": "To link external resources and provide metadata", "isCorrect": true },
+      { "text": "To define the footer of the page", "isCorrect": false },
+      { "text": "To create headings", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      { "text": "Hyperlinks and Text Markup Language", "isCorrect": false },
+      { "text": "Home Tool Markup Language", "isCorrect": false },
+      { "text": "Hyper Text Markup Language", "isCorrect": true },
+      { "text": "Hyperlinking Text Management Language", "isCorrect": false }
+    ]
+  }
+]
